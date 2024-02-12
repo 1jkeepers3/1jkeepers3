@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Keepers</h1>
-<h3 align="center">I'm a full-stack software engineer based in NYC/NJ.</h3>
+<h3 align="center">I'm a web developer based in NYC/NJ.</h3>
 
 - I love learning new things and stimulating my brain. I like solving problems and making things easier for people with technology. I love that new technology can change the world. I think if I were born 2 million years ago, I would have hunted and gathered, and if I were born 10,000 years ago, I would have farmed. I live in the age of the internet and AI, so I code! I grew up playing soccer and worked in the fitness industry for the first part of my career. I learned early on that you always leave it all on the field, and that became part of my ethos. You can find me exercising, cooking, and integrating into my community when I'm not coding **.**
 
