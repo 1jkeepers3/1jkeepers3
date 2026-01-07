@@ -1,7 +1,7 @@
 <h1 align="center">Joseph Keepers</h1>
 <h3 align="center">Master of Science in Computer Science student at The Stevens Institute of Technology</h3>
 
-- I love learning new things and stimulating my brain. I like solving problems and making things easier for people with technology. I love that new technology can change the world. I think if I were born 2 million years ago, I would have hunted and gathered, and if I were born 10,000 years ago, I would have farmed. I live in the age of the internet and AI, so I code! **.**
+- I’m a recent graduate of Stevens Institute of Technology, where I earned a Master of Science in Computer Science with a focus on Machine Learning and AI, and I’m currently seeking full-time opportunities in the NYC metro area. Through my academic work, I’ve developed a strong interest in applied AI, machine learning, and building systems that translate technical capabilities into real user impact, with a particular appreciation for working at the intersection of engineering and product through iterative development and testing. I’m excited about opportunities where I can contribute technically, learn quickly, and collaborate with teams building meaningful, AI-driven products in fast-paced environments.  **.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
